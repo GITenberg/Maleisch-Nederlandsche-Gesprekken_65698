@@ -1,0 +1,25 @@
+_repo: Maleisch-Nederlandsche-Gesprekken_65698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fokker, Abraham Anthony
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '24924'
+    url: http://www.gutenberg.org/2009/agents/24924
+    wikipedia: http://www.gutenberg.org/ebooks/author/52704
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65698'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indonesian language -- Conversation and phrase books -- Dutch'
+- !lcc 'PL'
+- GITenberg
+title: Maleisch-Nederlandsche Gesprekken
+url: http://www.gutenberg.org/ebooks/65698
